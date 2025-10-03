@@ -2,7 +2,7 @@
 title: "Melissa Morales"
 about:
   template: trestles
-  image: profile.jpg
+  image: IMG_8044.jpg
   links:
   #  - icon: twitter
  #     text: twitter
@@ -18,16 +18,12 @@ As a problem solver in the office, field, and lab, I thrive in dynamic environme
 
 ## Education
 
-Colorado State University (CSU) | Fort Collins, CO 
-M.S. in Ecology | Dec 2025
+Colorado State University (CSU) \| Fort Collins, CO M.S. in Ecology \| Dec 2025
 
-Moravian College | Bethlehem, PA
-B.S. in Environmental Science | May 2021
+Moravian College \| Bethlehem, PA B.S. in Environmental Science \| May 2021
 
 ## Experience
 
-Research and Teaching Assistant, Lab Technician | CSU | May 2022 - June 2025
+Research and Teaching Assistant, Field and Lab Technician \| CSU \| May 2022 - June 2025
 
-Interpretation & Education Park Guide | DOI: NPS | May 2017 - Nov 2021
-
-
+Interpretation & Education Park Guide \| DOI: NPS \| May 2017 - Nov 2021
