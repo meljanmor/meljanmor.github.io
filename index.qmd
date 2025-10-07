@@ -2,9 +2,7 @@
 title: "Melissa Morales"
 about:
   template: trestles
-  image: images/IMG_8044.jpg
-  image-shape: round
-  image-width: 17em
+  image: images/IMG_8045.jpg
   links:
   #  - icon: twitter
  #     text: twitter
