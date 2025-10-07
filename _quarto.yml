@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+   resources:
+    - images/
 
 website:
   title: "meljanmor.github.io"
@@ -8,9 +10,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - CV.qmd
-      
+      - href: about.qmd
+        text: About
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
