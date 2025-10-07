@@ -11,9 +11,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About Me
+        text: About
       - href: CV.qmd
-        text: Curriculum Vitae
+        text: CV
 
 format:
   html:

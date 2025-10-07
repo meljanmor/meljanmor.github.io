@@ -1,10 +1,8 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 ---
 
-**Melissa Morales**
-
-meljanmor\@gmail.com
+# Curriculum Vitae
 
 ## **Professional Summary**
 

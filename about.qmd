@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 image: images/IMG_8062.jpg
 format: html
 ---
