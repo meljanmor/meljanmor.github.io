@@ -2,7 +2,7 @@
 title: "Melissa Morales"
 about:
   template: trestles
-  image: images/IMG_8044
+  image: images/IMG_8044.jpg
   links:
   #  - icon: twitter
  #     text: twitter

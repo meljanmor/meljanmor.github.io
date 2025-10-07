@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-  image: images/IMG_8062
+  image: images/IMG_8062.jpg
 ---
 
 I’m originally from New York City, though my curiosity about the natural world truly flourished after my family moved to the Poconos. Long hikes in state parks, observing wildlife, and volunteering at events like BioBlitzes sparked a passion for exploring ecosystems and understanding how humans interact with the environment. Early experiences with the National Park Service at Delaware Water Gap helped me build skills in science communication and public engagement, setting the foundation for my career in ecology.\
