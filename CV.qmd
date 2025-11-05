@@ -14,17 +14,20 @@ Current M.S. student, Graduate Degree Program in Ecology
 
 *Relevant coursework:* Foundations of Ecology, Ecosystem Ecology, Community Ecology, Advanced Topics in Ecology, Insect Ecology, Environmental Data Science Applications, & Design and Data Analysis for Researchers.
 
+
 **Moravian College** (Bethlehem, Pennsylvania U.S.)
 
 Degree: Bachelor of Science in Environmental Science (**May 202)**
 
 *Relevant coursework:* Animal Behavior, Statistics, Environmental Policy, Environmental Chemistry, Marine Ecology, Climate Negotiations, Vertebrate Evolution Seminar, & Environmental Ethics.
 
+
 **Northampton Community College** (East Stroudsburg, Pennsylvania U.S.)
 
 *Major:* Environmental Science, **January 2018 - May 2019**
 
 *Relevant coursework:* Ecology, Geographic Information Systems (GIS), Astronomy, Field Zoology, Environmental Biology, Environmental Sustainability, Physical Geology, Biology I, Biology II, Chemistry I, & Chemistry II.
+
 
 ## **Job Experience**
 
@@ -63,6 +66,7 @@ Facilitated a weekly GIS lab session, offering demonstrations and providing ongo
 *TA for International Climate Negotiations, ESS-505 (August – December 2022)*
 
 Coordinated student logistics for international travel to the Conference of the Parties (COP 27), ensuring their safety and well-being through weekly safety meetings with university staff. Held regular meetings with stakeholders from the Youth Environmental Alliance in Higher Education (YEAH) to discuss preparations and initiatives. Evaluated student assignments and provided weekly office hours for additional support. Collaborated with the YEAH network, Colorado State University (CSU), and the State Department to develop an interactive pavilion at COP27, serving as an artistic installation highlighting youth climate activism.
+
 
 **Delaware Water Gap National Recreation Area (DEWA)** (Bushkill, Pennsylvania U.S.)
 
@@ -111,6 +115,7 @@ Helped with guiding small groups and providing services to visitors. Related to 
 Oriented hikers to conditions and equipment needed to assure safety. Surveyed the local area to see what fauna and flora surround the park. Performed emergency duties to protect people, government property, and the park itself. Conducted Operational Risk Management Analysis, or GAR (green, amber, red) to determine risks and mitigate those risks.
 
 \
+
 **Adventure Sports** (Marshalls Creek, Pennsylvania U.S.)
 
 [Base Staff:]{.underline}*May 2015 – September 2016 (Seasonal / 40 - 50+ hrs. per week)*
@@ -139,9 +144,9 @@ Maintained knowledge of River Safety. Ensured superior customer experience by ad
 
 ## **Trainings**
 
-·        CITI Training (Research, Ethics, Compliance, and Safety Training) (2022)
+●      CITI Training (Research, Ethics, Compliance, and Safety Training) (2022)
 
-·        IRB Training (Human participant research ethics training) (2022)
+●      IRB Training (Human participant research ethics training) (2022)
 
 ## **Publications and Presentations**
 
@@ -175,7 +180,7 @@ Through ICLEI- Local Governments for Sustainability, I helped Upper Darby townsh
 
 ●       Teaching assistant at Moravian College, Climate Negotiations on the International Stage (IDIS 298)
 
-o   Assisted instructors (Drs. Diane Husic & Hilde Binford) with virtual students in this hybrid course.
+●       Assisted instructors (Drs. Diane Husic & Hilde Binford) with virtual students in this hybrid course.
 
 ●       Independent study in the Marine Biology lab at Moravian on mud snails and their ability to find food under acidified conditions.
 
@@ -183,43 +188,29 @@ o   Assisted instructors (Drs. Diane Husic & Hilde Binford) with virtual stude
 
 ●      Equipment used: Biltmore stick, calipers, chest waders, Clearpath, a digital probe, a field-scale, GIS, GPS, a hand magnifier, insect nets, life preservers, measuring tapes, meter sticks, microscopes, pruners, Secchi disks, soil pH tester, spectrophotometer, stopwatch, thermometer probe, a UV lamp, water level logger, and water pH tester.
 
-**Volunteer Work**
+## **Volunteer Work**
 
 ●      Volunteer for NPS DEWA Natural Resources
 
-o   Dragonfly nymph collection (used to test mercury levels)
+●          Dragonfly nymph collection (used to test mercury levels)
 
-o   Crayfish collection (to determine the health of streams)
+●          Crayfish collection (to determine the health of streams)
 
-o   Collected both native and invasive species, seed collection for a wetland restoration project
+●          Collected both native and invasive species, seed collection for a wetland restoration project
 
-o   Took a seed collection training to learn about native species that were being collects, learned which seeds to collect, and learned different methods for seed collection and storage
+●          Collected organisms for biotic index calculations
 
-o   Performed basic limnology tests
+●          Took a seed collection training to learn about native species that were being collects, learned which seeds to collect, and learned different methods for seed collection and storage
 
-o   Used Secci disk
-
-o   Collected organisms for biotic index calculations
-
-o   Recorded the temperature and dissolved oxygen at different depths
+●          Performed basic limnology tests (using Secci disk, recorded  temperature and dissolved oxygen at different depths)
 
 ●      Volunteer for NPS DEWA Cultural Resources
 
-o   GIS (ArcGIS)
-
 ●      PennState Extension Master Watershed Steward
 
-o   Tree planting
+●          Tree planting, riparian buffer repairing, surveying watersheds, manual invasive species removal, water quality testing
 
-o   Riparian buffer repairing
-
-o   Surveying watersheds
-
-o   Invasive species removal
-
-o   Water quality testing
-
-●      Freshwater mussel surveying for Delaware Riverkeeper Network
+●      Delaware Riverkeeper Network (fresh water mussel surveying) 
 
 ●      Delaware Highlands Conservancy Monitoring Volunteer
 
@@ -227,31 +218,30 @@ o   Water quality testing
 
 ●      Bioblitz volunteer, collected data on flora and fauna
 
-●      Contributor and presenter for the Front Range Student Ecology Symposium
 
-**Skills**
+## **Core Competencies**
 
 ●      Highly organized and keen on detail
 
-●      Desire and willingness to learn new skills
+●      Desire and ability to learn new skills
 
-●      Comfortable with field work
+●      Experienced conducting fieldwork across diverse terrain and weather conditions
 
 ●      Demonstrates proficiency in collaborative teamwork and self-motivated to work independently
 
-●      Robust technical writing, analytical, and communications skills
+●      Robust technical writing, analytical, and communications skills for different audiences
 
-**Technical skills**
+## **Technical skills**
 
 ●       Research methods, research papers, and grant proposals
 
 ●       Rstudio (machine learning such as lasso regression, maxent, random forests, and statistical analysis)
 
-●       ArcGIS (Storymaps, Survey123, remote sensing to measure biodiversity and ecological recovery, studying tree canopy and water usage, understanding projections, datums and coordinate systems, data integrity, spatial analysis, vector data acquisition and preparation, raster analysis, spatial modeling, and web mapping.)
+●       ArcGIS (ArcToolbox, Spatial Analyst, ModelBuilder, ArcGIS Online, StoryMaps, Survey123)
 
 ●       RStudio (Markdown, Shiny, Quarto, ML, statistical analysis)
 
-●       GPS
+●       GPS (Gaia, Garmin)
 
 ●       Microsoft Office (Excel, Word, PowerPoint, Outlook, Teams, OneDrive) and Google drive suite
 
@@ -259,8 +249,8 @@ o   Water quality testing
 
 ●       Website Management (Content Management System \[CMS\] and WordPress)
 
-●       Social Media (Facebook, Twitter, Instagram)
-
 ●       Design (Canva, Adobe Photoshop, Photopea)
 
-●       Citizen science and professional data analysis (GBIF and iNaturalist)
+●       Social Media (Facebook, Twitter, Instagram)
+
+

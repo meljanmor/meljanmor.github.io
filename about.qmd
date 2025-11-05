@@ -1,8 +1,18 @@
 ---
-title: "About"
-image: images/IMG_8062.jpg
 format: html
 ---
+
+```{=html}
+<div style="position: relative; width: 100%; height: 400px; overflow: hidden; margin-bottom: 2em;">
+  <img src="images/IMG_8925.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Banner">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+    <h1 style="color: white; font-size: 4em; margin: 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.8);">About Me</h1>
+  </div>
+</div>
+```
+
+
+𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼
 
 I’m originally from New York City, though my curiosity about the natural world truly flourished after my family moved to the Poconos. Long hikes in state parks, observing wildlife, and volunteering at events like BioBlitzes sparked a passion for exploring ecosystems and understanding how humans interact with the environment. Early experiences with the National Park Service at Delaware Water Gap helped me build skills in science communication and public engagement, setting the foundation for my career in ecology.\
 \
@@ -10,3 +20,5 @@ I’m originally from New York City, though my curiosity about the natural world
 My academic and professional path has taken me from Northampton Community College to earning a B.S. in Environmental Science at [Moravian College](https://news.moravian.edu/2021/04/20/melissa-morales/), and now to graduate research at Colorado State University. I’ve led international field crews, conducted insect surveys, and developed innovative sampling and analysis methods. My work has allowed me to hone practical field and lab techniques, navigate complex ecological research projects, and contribute to both scientific publications and community-focused initiatives, including drafting a Local Climate Action Plan for Upper Darby Township.
 
 Outside of research, I love hiking, paddling, and camping, as well as exploring museums, listening to vinyls, going to theatres, and reading. Whether in the field, lab, or office, I’m energized by problem-solving, collaboration, and discovering ways to connect people with the natural world.
+
+𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼.𖤣𖥧𖡼
