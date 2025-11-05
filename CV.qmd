@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 
 ## **Professional Summary**
 
-As a dedicated ecologist with a passion for exploring diverse aspects of ecology, I bring a wealth of knowledge and field experience to the table. My academic journey has led me to delve into various ecological topics, fostering a deep commitment to my work. Continuously evolving alongside the dynamic field of ecology, I am eager to contribute to its advancement while furthering my own learning. Proficient in grant and proposal writing, as well as adept in research methods and paper publication, I am well-equipped to tackle the challenges of ecological research. Whether in the laboratory or out in the field, my enthusiasm for studying ecology knows no bounds. I am excited about the prospect of securing a position that nurtures my passion and allows me to make meaningful contributions to the field.
+As a dedicated ecologist with a passion for exploring diverse aspects of ecology, I bring a wealth of knowledge and field experience to the table. My academic journey has led me to delve into various ecological topics, fostering a deep commitment to my work. Continuously evolving alongside the dynamic field of ecology, I am eager to contribute to its advancement while furthering my own learning. Proficient in grant and proposal writing, as well as adept in research methods and paper publication, I am well-equipped to tackle the challenges of ecological research. Whether in the laboratory or out in the field, my enthusiasm for studying ecology knows no bounds. I am looking forward to joining a team where I can continue growing while contributing to work that makes a meaningful impact.
 
 ## **Education**
 
@@ -164,11 +164,11 @@ Maintained knowledge of River Safety. Ensured superior customer experience by ad
 
 ●       Presented *The Sagebrush Blues: Butterfly Pollinator Assemblages in the GYE* at the **Greater Yellowstone Ecosystem Conference** **(2022)**
 
-●       Presented *Voices and Visio**ns, The Art and Science of Climate Action*** **at CSU’s International Symposium (2023)**
+●       Presented *Voices and Visions, The Art and Science of Climate Action* at **CSU’s International Symposium (2023)**
 
 ●       Presented *How citizen science can help you* at the **Front Range Student Ecology Symposium** **(2023)**
 
-## **Academic Experience**
+## **Undergraduate Academic Experience**
 
 ●       **Youth Environmental Alliance in Higher Education:** August 2020 – May 2021
 
@@ -235,22 +235,20 @@ Through ICLEI- Local Governments for Sustainability, I helped Upper Darby townsh
 
 ●       Research methods, research papers, and grant proposals
 
-●       Rstudio (machine learning such as lasso regression, maxent, random forests, and statistical analysis)
+●       Rstudio (Machine Learning such as MaxEnt and Random Forest, statistical analysis, Markdown, Shiny, and Quarto)
 
 ●       ArcGIS (ArcToolbox, Spatial Analyst, ModelBuilder, ArcGIS Online, StoryMaps, Survey123)
 
-●       RStudio (Markdown, Shiny, Quarto, ML, statistical analysis)
-
 ●       GPS (Gaia, Garmin)
 
-●       Microsoft Office (Excel, Word, PowerPoint, Outlook, Teams, OneDrive) and Google drive suite
+●       Microsoft Office Suite (Excel, Word, PowerPoint, Outlook, Teams, OneDrive) and Google drive suite
 
-●       Google Programs (Drive, Docs, Sheets, Slides, Calendar, Forms, Meet)
+●       Google Suite (Drive, Docs, Sheets, Slides, Calendar, Forms, Meet)
 
 ●       Website Management (Content Management System \[CMS\] and WordPress)
 
 ●       Design (Canva, Adobe Photoshop, Photopea)
 
-●       Social Media (Facebook, Twitter, Instagram)
+●       Social Media (Facebook, Twitter, Youtube, Instagram)
 
 
